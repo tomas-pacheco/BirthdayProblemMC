@@ -71,7 +71,7 @@ plt.show()
 # number of people in the 'reunion'.
 
 
-cardinal = list(range(1,60))
+cardinal = list(range(1,61))
 prob_cardinal = []
 days = list(range(1, 366))
 
